@@ -25,14 +25,22 @@ Traditional coding environments lack real-time collaboration features, causing c
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bad3909c-d804-4113-b4bb-eb20fc045a52" />
 
-![Image 2](https://github.com/Sarguroh20/realtime-editor/assets/116432233/34617d06-191a-49e6-afc5-d65bdb1be59c)
-![Image 3](https://github.com/Sarguroh20/realtime-editor/assets/116432233/8dbabe28-5bcb-4f63-bea5-aec490be6c1d)
-![Image 4](https://github.com/Sarguroh20/realtime-editor/assets/116432233/d97d230b-0b4b-4077-8838-fe788b0dec0f)
-![Image 5](https://github.com/Sarguroh20/realtime-editor/assets/116432233/96978220-b961-46c2-a7bd-9322ededcd52)
-![Image 6](https://github.com/Sarguroh20/realtime-editor/assets/116432233/00fb6f0b-685c-4734-b1b1-e510ead317bf)
-![Image 7](https://github.com/Sarguroh20/realtime-editor/assets/116432233/0ae9ab52-23de-4bb1-baf4-46cc4bbd1616)
-![Image 8](https://github.com/Sarguroh20/realtime-editor/assets/116432233/be302f5e-1c9a-4bc2-a504-900c1b9f49ca)
-![image 9](https://github.com/Sarguroh20/realtime-editor/assets/116432233/0ad55c9f-8bda-427b-812f-c001aaed5586)
+![Image 2](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aad37295-3437-424c-99b5-d23321e82f50" />
+)
+![Image 3](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281ee8dd-ff68-4fd8-a23d-f08b1833276d" />
+)
+![Image 4](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a40d05a-f73b-45e7-a879-93b7fa5ced8d" />
+)
+![Image 5](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37f2aa2a-202a-451f-887d-5b7d56a30101" />
+)
+![Image 6](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddf8b576-9e1b-4c43-99cb-405fc9f3bd06" />
+)
+![Image 7](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2aa0b794-647c-45bd-886c-86197fa6c8df" />
+)
+![Image 8](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e942f66f-9bee-4f11-90e3-c639ff8255b0" />
+)
+![image 9](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55574687-ffae-473f-8dda-dc60224fb374" />
+)
 
 ## ▶️How to run
 - Fork the project and clone
