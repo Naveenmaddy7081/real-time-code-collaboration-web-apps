@@ -23,7 +23,8 @@ Traditional coding environments lack real-time collaboration features, causing c
 
 ### Home Page | Session Page | Editor Page
 
-![Image 1](https://github.com/Sarguroh20/realtime-editor/assets/116432233/fece1c9d-6cce-4755-be94-0778b3bb29f4)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bad3909c-d804-4113-b4bb-eb20fc045a52" />
+
 ![Image 2](https://github.com/Sarguroh20/realtime-editor/assets/116432233/34617d06-191a-49e6-afc5-d65bdb1be59c)
 ![Image 3](https://github.com/Sarguroh20/realtime-editor/assets/116432233/8dbabe28-5bcb-4f63-bea5-aec490be6c1d)
 ![Image 4](https://github.com/Sarguroh20/realtime-editor/assets/116432233/d97d230b-0b4b-4077-8838-fe788b0dec0f)
