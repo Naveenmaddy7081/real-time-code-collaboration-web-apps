@@ -25,22 +25,22 @@ Traditional coding environments lack real-time collaboration features, causing c
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bad3909c-d804-4113-b4bb-eb20fc045a52" />
 
-![Image 2](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aad37295-3437-424c-99b5-d23321e82f50" />
-)
-![Image 3](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281ee8dd-ff68-4fd8-a23d-f08b1833276d" />
-)
-![Image 4](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a40d05a-f73b-45e7-a879-93b7fa5ced8d" />
-)
-![Image 5](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37f2aa2a-202a-451f-887d-5b7d56a30101" />
-)
-![Image 6](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddf8b576-9e1b-4c43-99cb-405fc9f3bd06" />
-)
-![Image 7](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2aa0b794-647c-45bd-886c-86197fa6c8df" />
-)
-![Image 8](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e942f66f-9bee-4f11-90e3-c639ff8255b0" />
-)
-![image 9](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55574687-ffae-473f-8dda-dc60224fb374" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aad37295-3437-424c-99b5-d23321e82f50" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281ee8dd-ff68-4fd8-a23d-f08b1833276d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a40d05a-f73b-45e7-a879-93b7fa5ced8d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37f2aa2a-202a-451f-887d-5b7d56a30101" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddf8b576-9e1b-4c43-99cb-405fc9f3bd06" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2aa0b794-647c-45bd-886c-86197fa6c8df" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e942f66f-9bee-4f11-90e3-c639ff8255b0" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55574687-ffae-473f-8dda-dc60224fb374" />
+
 
 ## ▶️How to run
 - Fork the project and clone
